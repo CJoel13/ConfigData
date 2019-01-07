@@ -1,3 +1,3 @@
 wordConfig:
-  luckyWord: "German"
-  preamble: "The lucky magical word is: "
+  luckyWord: "British"
+  preamble: "The hardcoded magical word is: "

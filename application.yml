@@ -10,3 +10,11 @@ words: Alberto,Benito,Cristian
 spring:
   profiles: nombreing
 words: Ernest,Nick,Matt
+---
+spring:
+  profiles: saludoesp
+words: Buen día,Buenas tardes,Buenas noches
+---
+spring:
+  profiles: saludoing
+words: Good morning,Good afternoon,Good night

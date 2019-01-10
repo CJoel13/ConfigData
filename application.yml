@@ -24,7 +24,7 @@ words: Buen día,Buenas tardes,Buenas noches
 ident: 7,8,9
 ---
 spring:
-profiles: saludoesp
+profiles: saludoesp2
 words: Buenos días a,Buenas tardes a,Buenas noches a
 ident: 7,8,9
 ---

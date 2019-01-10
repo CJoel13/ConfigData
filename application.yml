@@ -6,15 +6,19 @@ eureka:
 spring:
   profiles: nombreesp
 words: Alberto,Benito,Cristian
+ident: 1,2,3
 ---
 spring:
   profiles: nombreing
 words: Ernest,Nick,Matt
+ident: 4,5,6
 ---
 spring:
   profiles: saludoesp
 words: Buen día,Buenas tardes,Buenas noches
+ident: 7,8,9
 ---
 spring:
   profiles: saludoing
 words: Good morning,Good afternoon,Good night
+ident: 10,11,12

@@ -5,31 +5,31 @@ eureka:
       defaultZone: http://localhost:8010/eureka/
 ---
 spring:
-  profiles: nombreesp
+  profiles: perfnombreesp
 words: Alberto,Benito,Cristian
 ident: 1,2,3
 ---
 spring:
-  profiles: nombreesp2
+  profiles: perfnombreesp2
 words: Gustavo,Hilario,Ivan
 ident: 1,2,3
 ---
 spring:
-  profiles: nombreing
+  profiles: perfnombreing
 words: Ernest,Nick,Matt
 ident: 4,5,6
 ---
 spring:
-  profiles: saludoesp
+  profiles: perfsaludoesp
 words: Buen día,Buenas tardes,Buenas noches
 ident: 7,8,9
 ---
 spring:
-  profiles: saludoesp2
+  profiles: perfsaludoesp2
 words: Buenos días a,Buenas tardes a,Buenas noches a
 ident: 7,8,9
 ---
 spring:
-  profiles: saludoing
+  profiles: perfsaludoing
 words: Good morning,Good afternoon,Good night
 ident: 10,11,12
